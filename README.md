@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/kaneyxx-weekly-report-mcp-badge.png)](https://mseep.ai/app/kaneyxx-weekly-report-mcp)
+
 # Weekly Report Checker MCP Server
 
 An MCP (Model Context Protocol) server that checks weekly report submissions in a Google Sheet.
